@@ -6,6 +6,6 @@
 <p alingn = 'justify'>Para entender melhor, imagine essa function Factory com um modulo que recebe um input, contendo nesse input uma requisição de informação, um CPF por exemplo, esse modulo principal irá executar uma serie de functions de verificação, como de sanitização (que removerá caracteres invalidos, espaços, de forma que só mantenha os numeros), depois coerção (para lidar de fato com uma string, conforme os padrões estipulados), validação (verifica se a informação está correta), então outra factory (function) irá buscar num banco de dados as informações desse CPF e por fim retorna as informações ao usuário.</p>
 ## Quer saber mais?
 
-<p alingn = 'justify'>Além de dar uma olhadinha no arquivo js, eu recomendo fortemente que você dê uma olhada nesse vídeo do canal do [Filipe Deschamps](https://www.youtube.com/watch?v=arAz2Ff8s88), pois é daqui que eu tirei as informções para criar esse repositório, fora vários outros vídeos dele que sempre me motivou e inspirou.</p>
+Além de dar uma olhadinha no arquivo js, eu recomendo fortemente que você dê uma olhada nesse vídeo do canal do [Filipe Deschamps](https://www.youtube.com/watch?v=arAz2Ff8s88), pois é daqui que eu tirei as informções para criar esse repositório, fora vários outros vídeos dele que sempre me motivou e inspirou.
 
 © [Fellipe Henrique](https://www.linkedin.com/in/fellipehfa/)
