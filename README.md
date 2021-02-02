@@ -1,7 +1,13 @@
 # Design Pattern - Factory
 ## Aprendendo um pouco sobre arquitetura de software, Arquitetura Inception.
 
-Design Patterns são padrões de códigos poderosos que um programador ou programadora DEVE aprender para programar sistemas mais sofisticados, sem fazer o código perder a simplicidade e as propriedades de um código limpo (clean code).
+Design Patterns ou padrões de projetos são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software. Não se trata de um framework ou um código pronto, mas de uma definição de alto nível de como um problema comum pode ser solucionado.
+
+## Quais os benefícios de usar Design Patterns?
+
+Design patterns são modelos que já foram utilizados e testados anteriormente, portanto podem representar um bom ganho de produtividade para os desenvolvedores. Seu uso também contribui para a organização e manutenção de projetos, já que esses padrões se baseiam em baixo acoplamento entre as classes e padronização do código.
+
+Além disso, com a padronização dos termos, as discussões técnicas são facilitadas. É mais fácil falar o nome de um design pattern em vez de ter que explicar todo o seu comportamento.
 
 Dentro desse repositório você encontrará um arquivo js com um exemplo simples de como e onde aplicar o Design Patterns Factory, que nada mais é que um function acessando varias outras functions, acessando assim a funcionalidade de cada uma em modulos separados, como um pRocesso de montagem de uma fabrica, trabalhando de forma dinamica o escopo da function, como uma arquitetura Inception.
 
